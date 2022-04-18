@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\excalibur\Desktop\C#\CALISMA\SatisSitesi\SatisSitesi\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="AnaMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Firma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Kategori.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Parola.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UrunEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

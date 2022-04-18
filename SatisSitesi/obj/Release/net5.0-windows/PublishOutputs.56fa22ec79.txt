@@ -1,0 +1,11 @@
+C:\Users\excalibur\Desktop\C#\CALISMA\SatisSitesi\SatisSitesi.exe
+C:\Users\excalibur\Desktop\C#\CALISMA\SatisSitesi\SatisSitesi.dll
+C:\Users\excalibur\Desktop\C#\CALISMA\SatisSitesi\SatisSitesi.deps.json
+C:\Users\excalibur\Desktop\C#\CALISMA\SatisSitesi\SatisSitesi.runtimeconfig.json
+C:\Users\excalibur\Desktop\C#\CALISMA\SatisSitesi\SatisSitesi.pdb
+C:\Users\excalibur\Desktop\C#\CALISMA\SatisSitesi\System.Data.SqlClient.dll
+C:\Users\excalibur\Desktop\C#\CALISMA\SatisSitesi\runtimes\win-arm64\native\sni.dll
+C:\Users\excalibur\Desktop\C#\CALISMA\SatisSitesi\runtimes\win-x64\native\sni.dll
+C:\Users\excalibur\Desktop\C#\CALISMA\SatisSitesi\runtimes\win-x86\native\sni.dll
+C:\Users\excalibur\Desktop\C#\CALISMA\SatisSitesi\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\excalibur\Desktop\C#\CALISMA\SatisSitesi\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
